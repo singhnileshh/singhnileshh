@@ -15,11 +15,11 @@
 
 ###
 
-<h2 align="center">Hey there 👋 .............. Nilesh here</h2>
+<h2 align="center">NILESH KUMAR SINGH</h2>
 
 ###
 
-<h3 align="left">Hello World ! my name is Nilesh Kumar Singh and i am pursuing my bachelors degree in Computer Science and Engineering from Pranveer Singh Institute Of Technology.</h3>
+<h3 align="left">Hello ! my name is Nilesh Kumar Singh and i am pursuing my Bachelors degree in Computer Science and Engineering from Pranveer Singh Institute Of Technology.</h3>
 
 ###
 
